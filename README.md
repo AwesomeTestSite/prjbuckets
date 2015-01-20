@@ -1,1 +1,3 @@
 # prjbuckets
+
+trying to build my conceptual sn site...
